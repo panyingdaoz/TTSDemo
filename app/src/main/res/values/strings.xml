@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TTSDemo</string>
+    <string name="speak">语音播报</string>
+</resources>
